@@ -4,7 +4,7 @@
 
 ## Task
 
-    Here HTML and CSS were given with some JS functions and objects(not solution), and we have to make JS soltion in a way, when we click on the "+" button symbol, an answer of that perticular FAQ would appear and on next click it gets disappear.
+- Here HTML and CSS were given with some JS functions and objects(not solution), and we have to make JS soltion in a way, when we click on the "+" button symbol, an answer of that perticular FAQ would appear and on next click it gets disappear.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## Time taken
 
-    Honest time taken for it to do for the first time for me is one whole day. Did a lot of brainstorming with so many research, but it paid off.
+- Honest time taken for it to do for the first time for me is one whole day. Did a lot of brainstorming with so many research, but it paid off.
 
 ---
 
