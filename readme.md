@@ -11,6 +11,7 @@
 ### Completed projects
 
 - [Accordion](https://js-assignments-1-accordion.vercel.app/)
+- [Calculator](https://js-assignments-1-project-2-calculator.vercel.app/)
 - More projects will be uploading soon!
 
 ---
