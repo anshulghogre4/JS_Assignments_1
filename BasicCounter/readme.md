@@ -32,4 +32,4 @@
 
 ## Live link
 
-- [Basic Counter]()
+- [Basic Counter](https://js-assigmnet-1-project-3-basicounter.netlify.app/)
