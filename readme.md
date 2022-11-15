@@ -12,6 +12,7 @@
 
 - [Accordion](https://js-assignments-1-accordion.vercel.app/)
 - [Calculator](https://js-assignments-1-project-2-calculator.vercel.app/)
+- [Basic Counter](https://js-assigmnet-1-project-3-basicounter.netlify.app/)
 - More projects will be uploading soon!
 
 ---
