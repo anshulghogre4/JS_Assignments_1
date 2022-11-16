@@ -15,7 +15,7 @@
 - [Basic Counter](https://js-assigmnet-1-project-3-basicounter.netlify.app/)
 
 - [ColorChanger](https://js-assig-1-project-4-color-changer.netlify.app/)
-- More projects will be uploading soon!
+- More projects will be uploading soon
 
 ---
 
