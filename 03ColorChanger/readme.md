@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/JS-Color_Changer_App-orange)
 
-# Project 3: Color Changer App
+# Project 4: Color Changer App
 
 ## Task
 
