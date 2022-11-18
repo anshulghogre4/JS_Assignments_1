@@ -17,6 +17,7 @@
 - [ColorChanger](https://js-assig-1-project-4-color-changer.netlify.app/)
 
 - [Click The Button](https://js-assig-1-project-5-click-the-button.netlify.app/)
+- [See What You Type](https://js-assig-1-proj-6-see-what-you-type.netlify.app/)
 - More projects will be uploading soon!
 
 ---
