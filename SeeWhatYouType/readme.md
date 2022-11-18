@@ -29,4 +29,4 @@
 
 ## Live link
 
-- [See What You Type]()
+- [See What You Type](https://js-assig-1-proj-6-see-what-you-type.netlify.app/)
