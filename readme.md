@@ -18,6 +18,7 @@
 
 - [Click The Button](https://js-assig-1-project-5-click-the-button.netlify.app/)
 - [See What You Type](https://js-assig-1-proj-6-see-what-you-type.netlify.app/)
+- [Name Conversion](https://js-assig-1-project-7-name-conversion.netlify.app/)
 - More projects will be uploading soon!
 
 ---
