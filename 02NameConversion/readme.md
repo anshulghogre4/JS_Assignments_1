@@ -30,4 +30,4 @@
 
 ## Live link
 
-- [Name Conversion](https://js-assig-1-proj-6-see-what-you-type.netlify.app/)
+- [Name Conversion](https://js-assig-1-project-7-name-conversion.netlify.app/)
